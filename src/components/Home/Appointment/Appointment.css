@@ -1,0 +1,11 @@
+.aqua-color {
+  color: #1cc7c1;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.appointment-container {
+  background-color: #3a4256;
+}
+.appointment-image {
+  margin-top: -105px;
+}
